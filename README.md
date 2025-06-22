@@ -2,13 +2,15 @@
 
 A mini jump game inspired by the Chrome Dino, built using Arduino and a 16x2 LCD.  
 Jump to avoid Obstacles, track your score, and see if you can beat your high score.
+The goal was to develop initial interest in making DIY electronics projects, hence we created it to fullfil requirements for 1st Sem IoT-Based Project.
+
 
 ---
 
 ##  Gameplay
 
 - Press the button to **jump**.
-- If the dino hits a tree on the ground, **Game Over**.
+- If the dino hits an Obstacle, **Game Over**.
 - Your **high score** is displayed after each round.
 - Buzzer plays a tone on jump for feedback.
 
